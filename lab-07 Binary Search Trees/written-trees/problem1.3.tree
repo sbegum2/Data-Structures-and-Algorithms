@@ -1,0 +1,10 @@
+: Before Rebalance
+      7
+  4      8
+             12
+            9 
+
+: After Rebalance
+     7
+  4      9
+       8   12
