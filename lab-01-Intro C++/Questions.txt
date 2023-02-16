@@ -1,0 +1,43 @@
+Answer the following questions by modifying this text file.  Write
+your answers between each question.  You're not being graded or judged
+on these answers.
+
+1. What is your name?  What do you prefer to be called?
+
+    My name is Samira! It's also my preferred name.
+
+
+2. Why are you taking CS35?
+
+    I'm interested in CS35 as a prospective CS major at Swarthmore.
+    I'm also interested in the practical applications of CS and the actual 
+    coding part, which I believe this course goes into more depth in.s
+
+
+3. What is your previous experience in Computer Science?  What
+programming languages do you know, and which classes have you taken?
+    
+    I took CS21 at Swarthmore last spring, as well as a DirRdg on the history
+    of AI Ethics. I'm only familiar with the Python programmng language.
+
+
+4. These are a couple questions about how you approach your assignments.
+
+  a. Do you start on your homework as soon as it is assigned or do you
+  tend to finish it right before it's due?
+  
+    I tend to work on it closer to the due date but that's a habit 
+    I've between working on.
+  
+  
+  b. When doing group work, do you prefer for your group to split your
+  work up into pieces or do you like to work together as a group
+  through as much of the material as possible?
+
+    It usually depends on the kind of assignment but I typically enjoy 
+    splitting up work and discussing everyone's thought process as we 
+    look over our indsvidual parts.
+
+
+5. What do you consider fun?
+    I enjoy rock climbing and spending time outdoors! :)
